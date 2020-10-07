@@ -26,16 +26,16 @@
 
 
 
-## Behavior Analysis
+## 4. Behavior Analysis
 
-### 1.  When a person is nervous, 紧张
+### 4.1.  When a person is nervous, 紧张
 
 ```
 1. 嘴唇会发干 Lips will dry out
 2. 喉咙会干渴 Throat will be thirsty
 ```
 
-### 2. 人在说谎的时候 When people are lying
+### 4.2. 人在说谎的时候 When people are lying
 
 ```
 1. 鼻子会被刺痛 Nose will sting
@@ -46,9 +46,9 @@
 
 
 
-## Type of Delusional Disorder
+## 5. Type of Delusional Disorder
 
-### 1. 妄想症(英文：Delusional disorder)
+### 5.1. 妄想症(英文：Delusional disorder)
 
 ```
 1. 情爱妄想型(erotomanic type)：又称de Clerambault's症候群
@@ -56,9 +56,9 @@
 
 
 
-## Type of personality disorder
+## 6. Type of personality disorder
 
-### 1. Suspicious:
+### 6.1. Suspicious:
 
 ```
 1. Paranoid personality disorder
@@ -67,7 +67,7 @@
 4. Antisocial personality disorder
 ```
 
-### 2. Emotional and impulsive:
+### 6.2. Emotional and impulsive:
 
 ```
 1. Borderline personality disorder (BPD)
@@ -75,7 +75,7 @@
 3. Narcissistic personality disorder
 ```
 
-### 3. Anxious
+### 6.3. Anxious
 
 ```
 1. Avoidant personality disorder
@@ -84,7 +84,7 @@
 - 反复洗手 Wash your hands repeatedly
 ```
 
-### 4. Multiple Personality Disorder
+### 6.4. Multiple Personality Disorder
 
 ```
 1. 分离性人格别障碍 Dissociative personality disorder
@@ -92,7 +92,7 @@
 
 
 
-## Type of Syndrome
+## 7. Type of Syndrome
 
 ```
 1. 斯德哥尔摩综合征 Stockholm syndrome
@@ -100,7 +100,7 @@
 
 
 
-## 应激障碍
+## 8. 应激障碍
 
 ```
 - 是指一组主要由心理、社会(环境)因素引起异常心理反应而导致的精神障碍。
@@ -109,6 +109,126 @@
 2. 创伤后应激障碍 PTSD (Post-traumatic stress disorder)
 3. 适应障碍
 ```
+
+
+
+## 9. Body Language
+
+ 
+
+### 9.1. What is Body Language?
+
+```
+1. Most of these are communicated non-verbally.
+2. Human body expresses our feelings and intentions.
+- Conscious & Un-conscious Movements & Postures, acommpanied by
+- Gestures, Facial expression, eye contacts and touch.
+```
+
+
+
+### 9.2. Why is Body Language important?
+
+- [ ]  55% ( **Body Language** )
+- [ ] 7% ( **Spoken Word** )
+- [ ] 38% ( **Tone of Voice** )
+
+
+
+### 9.3.  Type of Body Language
+
+1. Parts of the body 
+2. Intent
+
+
+
+#### 9.3.1. Parts of the body 
+
+```
+1. The Head
+
+2. Facial Expressions
+- Eyebrows
+- Eyes
+- Nose
+- Lips
+- Tounge
+- Jaw
+
+3. Body Posture
+- Body proximity
+- Shoulder movement
+- Arm placement
+- Leg and feet placement
+
+4. Hand and finger gestures
+
+5. Handling and palcement of objects (eg: pens, papers, etc)
+```
+
+
+
+#### 9.3.2. Intent 
+
+```
+1. Voluntary/ Intentional Movements
+- Gestures
+- Shaking a hand
+- Giving the finger
+- Blinking an eye
+
+2. Involuntary movement (movement have no control over)
+- Sweating
+```
+
+
+
+### 9.3.3. Tone of Voice 
+
+$$
+Tone of Voice ≠ Body Language
+$$
+
+```
+Tone of Voice is a separate group from body language.
+Groups of Tone of Voice:
+1. Pitch of Voice 
+- High voice 
+- Low voice
+- Intonation
+
+2. Loduness
+- Shouting to Whisper
+
+3. Breathing 
+- Slow
+- Fast breathing
+- Shaky voice
+```
+
+
+
+### 9.4 Body Language in Tabular Format (Friendly & Non-Friendly)
+
+| No.  | Friendly (+ve)  | Body Language | Non Friendly (-ve)   |
+| ---- | --------------- | ------------- | -------------------- |
+| 1    | Smiling         | FACIAL        | Tight Lipped         |
+| 2    | Relaxed Mouth   | FACIAL        | Grim Smile           |
+| 3    | Alert           | FACIAL        | Raised Eyebrows      |
+| 4    | Ready to Listen | FACIAL        | Jaw Muscles Clenched |
+| 5    | Pupils Dilated  | EYES          | Looking Down Nose    |
+| 6    | Good Contact    | EYES          | Lack of Contact      |
+| 7    | Wide Open       | EYES          | Narrowed             |
+| 8    | Straight        | HEAD          | Bowed                |
+| 9    | Mildly Nodding  | HEAD          | Shaking              |
+| 10   | Open            | BODY POSITION | Crossed Arms         |
+| 11   | Erect           | BODY POSITION | Legs Crossed Away    |
+| 12   | Leaning Forward | BODY POSITION | Cold Shoulder        |
+| 13   | Open Hands      | HAND GESTURES | Tapping Finders      |
+| 14   | Touching        | HAND GESTURES | Closed Hands         |
+| 15   | Hand to Chest   | HAND GESTURES | Finger Wagging       |
+
+
 
 
 
