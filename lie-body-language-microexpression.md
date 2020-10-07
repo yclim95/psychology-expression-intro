@@ -211,16 +211,16 @@ Groups of Tone of Voice:
 ### 9.4 Body Language in Tabular Format (Friendly & Non-Friendly)
 
 | No.  | Friendly (+ve)  | Body Language | Non Friendly (-ve)   |
-| ---- | --------------- | ------------- | -------------------- |
-| 1    | Smiling         | FACIAL        | Tight Lipped         |
-| 2    | Relaxed Mouth   | FACIAL        | Grim Smile           |
-| 3    | Alert           | FACIAL        | Raised Eyebrows      |
-| 4    | Ready to Listen | FACIAL        | Jaw Muscles Clenched |
-| 5    | Pupils Dilated  | EYES          | Looking Down Nose    |
-| 6    | Good Contact    | EYES          | Lack of Contact      |
-| 7    | Wide Open       | EYES          | Narrowed             |
-| 8    | Straight        | HEAD          | Bowed                |
-| 9    | Mildly Nodding  | HEAD          | Shaking              |
+| ---- | --------------- | :-----------: | -------------------- |
+| 1    | Smiling         |    FACIAL     | Tight Lipped         |
+| 2    | Relaxed Mouth   |    FACIAL     | Grim Smile           |
+| 3    | Alert           |    FACIAL     | Raised Eyebrows      |
+| 4    | Ready to Listen |    FACIAL     | Jaw Muscles Clenched |
+| 5    | Pupils Dilated  |     EYES      | Looking Down Nose    |
+| 6    | Good Contact    |     EYES      | Lack of Contact      |
+| 7    | Wide Open       |     EYES      | Narrowed             |
+| 8    | Straight        |     HEAD      | Bowed                |
+| 9    | Mildly Nodding  |     HEAD      | Shaking              |
 | 10   | Open            | BODY POSITION | Crossed Arms         |
 | 11   | Erect           | BODY POSITION | Legs Crossed Away    |
 | 12   | Leaning Forward | BODY POSITION | Cold Shoulder        |
