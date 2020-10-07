@@ -1,3 +1,9 @@
+## How to detect Lies: Body Language & Micro-expression
+
+
+
+
+
 ## 1. Why to people Lie? 
 
 ```reStructuredText
@@ -230,9 +236,71 @@ Groups of Tone of Voice:
 
 
 
+## 10. What is Micro expression?
+
+1. Definition: **Brief** & **Involuntary** expression of the ***FACE*** shown by humans depending on the emotion experienced.
+2. When occur: A person **tries to hide all the signs** of how he or she feels / he or she is **not aware of**.
+3. Difficult to hide: 7 Universal emotions
+
+```
+ 1. Anger
+ 2. Happiness
+ 3. Contempt / disrespect
+ 4. Surprise
+ 5. Disgust
+ 6. Sadness 
+ 7. Fear
+```
+
+
+
+### 10.1. Common Body Languages
+
+1. Scrunching up the nose
+2. Twisting hands in the lap
+3. Flicking hair over the shoulder
+4. Scratching hair or noise
+5. Looking toward the ground instead of maintaining eye contact
+6. Placing hands on hips (to portray power)
+7. Getting into somebody’s face (or being in the personal space of
+   another person)
+
+
+
+### 10.2. Scenario: One body language identified does not meant everything
+
+1. A person MAY SMILE with his or her Lips.
+2. When a person is genuinely happy, it reflects in their EYES.
+3. If he has False smile, the part which surrounds  the Eye does not Change at all.
+4. Eyes can express more than most of the part.
+
+Today additional positive and negative emotions are identified:
+
+1. Relief
+2. Embarrassment 
+3. Contentment
+4. Pride in achievement
+5. Amusement
+6. Excitement
+7. Guilt
+8. Sensory pleasure
+9. Shame
+10. Satisfaction
+
+
+
+### 10.3. Detecting lies 
+
+#### 10.3.1 By Eyes
+
+1. Left Eye (Logic / Remembering)
+2. Right Eye (Creative / Constructing Lies)
+
 
 
 # References 
 
 1. [Micro expression](https://www.scienceofpeople.com/microexpressions/#the-7-microexpressions)
 2. [7 Micro expression](https://nitrocdn.com/mGdfqgIryrixYlLfatNGoghDDSvykOmB/assets/static/source/rev-f2d8992/wp-content/uploads/2020/07/778260_Microexpressions_072120.jpg)
+3. [Eye moment when Lying](https://www.learning-mind.com/eye-movements-when-lying/)
+4. [Eye movement when lying Image](https://i.pinimg.com/564x/34/b1/0b/34b10b0f0bc0d9d67d826906c188fa63.jpg)
