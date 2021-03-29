@@ -315,6 +315,14 @@ Today additional positive and negative emotions are identified:
 2. Right Eye (Creative / Constructing Lies)
 
 
+## 11. Types of Proxemics
+1. Public dISTANCE (3.7m+) - Public Area
+2. Social distance (1.2 - 3.7m) - Acquintance
+3. Personal distance (0.46 - 1.2m) - Good friends & Family member
+4. Intimacy distance (0 - 0.46m) - Spouse / loved one
+
+
+
 
 # References 
 
