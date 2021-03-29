@@ -251,16 +251,17 @@ Groups of Tone of Voice:
 2. When occur: A person **tries to hide all the signs** of how he or she feels / he or she is **not aware of**.
 3. They usually last 0.5–4.0 seconds and cannot be faked.
 4. 真正的微表情，持续时间不会超过5分之一秒。 Real micro expressions will not last more than one-fifth of a second.
-5. Difficult to hide: 7 Universal emotions
+5. 微表情有42块表情肌，可以做出1万多表情. There are 42 expression muscles in the micro expression, which can make more than 10,000 expressions
+6. Difficult to hide: 7 Universal emotions
 
 ```
- 1. Anger
- 2. Happiness
+ 1. Anger 愤怒
+ 2. Happiness 快乐
  3. Contempt / disrespect
- 4. Surprise
- 5. Disgust
- 6. Sadness 
- 7. Fear
+ 4. Surprise 惊讶
+ 5. Disgust 厌恶
+ 6. Sadness 悲伤
+ 7. Fear 恐惧
 ```
 
 
