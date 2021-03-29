@@ -250,7 +250,8 @@ Groups of Tone of Voice:
 1. Definition: **Brief** & **Involuntary** expression of the ***FACE*** shown by humans depending on the emotion experienced.
 2. When occur: A person **tries to hide all the signs** of how he or she feels / he or she is **not aware of**.
 3. They usually last 0.5–4.0 seconds and cannot be faked.
-4. Difficult to hide: 7 Universal emotions
+4. 真正的微表情，持续时间不会超过5分之一秒。 Real micro expressions will not last more than one-fifth of a second.
+5. Difficult to hide: 7 Universal emotions
 
 ```
  1. Anger
