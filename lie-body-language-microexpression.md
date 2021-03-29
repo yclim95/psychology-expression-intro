@@ -125,6 +125,12 @@
 3. 适应障碍
 ```
 
+## 4种气质类型 4 Type of temperament
+1. 胆汁质 Choleric temperament
+2. 多血质 Sanguine temperament
+3. 粘液质 Phlegmatic temperament
+4. 郁抑质 Melancholy temperament
+
 
 
 ## 9. Body Language
@@ -316,3 +322,6 @@ Today additional positive and negative emotions are identified:
 2. [7 Micro expression](https://nitrocdn.com/mGdfqgIryrixYlLfatNGoghDDSvykOmB/assets/static/source/rev-f2d8992/wp-content/uploads/2020/07/778260_Microexpressions_072120.jpg)
 3. [Eye moment when Lying](https://www.learning-mind.com/eye-movements-when-lying/)
 4. [Eye movement when lying Image](https://i.pinimg.com/564x/34/b1/0b/34b10b0f0bc0d9d67d826906c188fa63.jpg)
+5. [4种气质类型 - Mapping](https://www.zmacp.cn/Content/images/pages/Temperament.jpg)
+6. [4种气质类型 - Detail](https://pic.baike.soso.com/ugc/baikepic2/4031/cut-20180606093354-98182245_jpg_383_287_24692.jpg/800)
+7. [4 Type of temperament Personality](https://i.pinimg.com/originals/6b/1e/bb/6b1ebbb1f576b27b11e012a62c49d5d9.jpg)
