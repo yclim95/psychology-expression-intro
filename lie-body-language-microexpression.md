@@ -50,6 +50,13 @@
 3. Eye lid up down up down 
 ```
 
+### 4.3 When you are investigated 
+```
+1. Calm 
+2. Mouth sign - nervous to smile
+```
+
+
 
 
 ## 5. Type of Delusional Disorder
@@ -95,6 +102,8 @@
 ```
 1. 分离性人格别障碍 Dissociative personality disorder
 ```
+
+### 6.5 表演性人格障碍 Histrionic Persoality Disorder
 
 
 
@@ -240,7 +249,8 @@ Groups of Tone of Voice:
 
 1. Definition: **Brief** & **Involuntary** expression of the ***FACE*** shown by humans depending on the emotion experienced.
 2. When occur: A person **tries to hide all the signs** of how he or she feels / he or she is **not aware of**.
-3. Difficult to hide: 7 Universal emotions
+3. They usually last 0.5–4.0 seconds and cannot be faked.
+4. Difficult to hide: 7 Universal emotions
 
 ```
  1. Anger
