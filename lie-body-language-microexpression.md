@@ -94,6 +94,11 @@
 1. Avoidant personality disorder
 2. Dependent personality disorder
 3. 强迫性人格障碍 Obsessive compulsive personality disorder (OCPD)
+不喜欢改变
+难以适应新的环境
+喜欢操控别人的想法
+不擅长表达自己的情感
+很难交到自心的朋友
 - 反复洗手 Wash your hands repeatedly
 ```
 
@@ -320,6 +325,13 @@ Today additional positive and negative emotions are identified:
 2. Social distance (1.2 - 3.7m) - Acquintance
 3. Personal distance (0.46 - 1.2m) - Good friends & Family member
 4. Intimacy distance (0 - 0.46m) - Spouse / loved one
+
+## 12. 跟踪狂
+大多数是男性
+目的：纠正他们的错误观念还有行为
+1. 被人拒绝 (比如：打电话求复合）
+2. 怨恨型：（比如：恐吓——，被开除的下属）
+3. 亲密性：（比如：不仅爱上自己的偶像，而却认为偶像也爱上他们）
 
 
 
