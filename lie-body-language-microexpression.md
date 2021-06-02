@@ -50,10 +50,10 @@
 5. When they **look up and to the left**, they are remembering or recalling something, tapping into the **memory** part of the brain.
 7. However, be sure you get to know their natural movements, because this can be **reversed for left-handed people**.
 8. Here are some quick guidelines observed in people:
-  1. ***Looking to Their Right*** = **Auditory** Thought (remembering a song)
-  2. ***Looking to Their Left*** = **Visual** Thought (remembering the color of a dress)
-  3. ***Looking Down to Their Right*** = Someone creating a **feeling or sensory memory** (thinking what it would be like to swim in jello).
-  4. ***Looking Down to Their Left*** = Someone **talking to themself**. 
+   1. ***Looking to Their Right*** = **Auditory** Thought (remembering a song)
+   2. ***Looking to Their Left*** = **Visual** Thought (remembering the color of a dress)
+   3. ***Looking Down to Their Right*** = Someone creating a **feeling or sensory memory** (thinking what it would be like to swim in jello).
+   4. ***Looking Down to Their Left*** = Someone **talking to themself**. 
 
 ### 4.3 When you are investigated 
 ```
