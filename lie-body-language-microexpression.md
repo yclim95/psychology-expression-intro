@@ -42,13 +42,18 @@
 ```
 
 ### 4.2. 人在说谎的时候 When people are lying
-
-```
 1. 鼻子会被刺痛 Nose will sting
 2. 这样轻轻触碰的话，会缓解这种不适的感觉。If you touch it gently, it will relieve this discomfort.
 3. 头部之绝望向左边，而手指却只向右边。The despair of the head is to the left, while the finger is only to the right.
 3. Eye lid up down up down 
-```
+4. Typically, when people **look up and to the right**, they are **lying** or tapping into their **imagination**.
+5. When they **look up and to the left**, they are remembering or recalling something, tapping into the **memory** part of the brain.
+7. However, be sure you get to know their natural movements, because this can be **reversed for left-handed people**.
+8. Here are some quick guidelines observed in people:
+ 1. ***Looking to Their Right*** = **Auditory** Thought (remembering a song)
+ 2. ***Looking to Their Left*** = **Visual** Thought (remembering the color of a dress)
+ 3. ***Looking Down to Their Right*** = Someone creating a **feeling or sensory memory** (thinking what it would be like to swim in jello).
+ 4. ***Looking Down to Their Left*** = Someone **talking to themself**. 
 
 ### 4.3 When you are investigated 
 ```
@@ -376,3 +381,4 @@ Today additional positive and negative emotions are identified:
 5. [4种气质类型 - Mapping](https://www.zmacp.cn/Content/images/pages/Temperament.jpg)
 6. [4种气质类型 - Detail](https://pic.baike.soso.com/ugc/baikepic2/4031/cut-20180606093354-98182245_jpg_383_287_24692.jpg/800)
 7. [4 Type of temperament Personality](https://i.pinimg.com/originals/6b/1e/bb/6b1ebbb1f576b27b11e012a62c49d5d9.jpg)
+8. [How to Read People’s Eye Direction and Behavior With 34 Cues](https://www.scienceofpeople.com/read-people-eyes/)
